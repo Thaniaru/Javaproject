@@ -7,6 +7,7 @@ public class welcome {
 System.out.println("Welcome to the world of DevOps");
 
 System.out.println(50+40);
+System.out.println("Hurray we did it");
 
 	}
 
